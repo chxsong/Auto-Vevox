@@ -1,4 +1,4 @@
-# Auto-Vevox-
+# Auto-Vevox
 Detect Vevox question changes, call OpenAI-compatible API, auto click option and submit.
 
 Tampermonkey-based Vevox auto-answer script:
